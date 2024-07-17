@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "579262182424",
+    "firebase_url": "https://graduation-project-2024-default-rtdb.firebaseio.com",
+    "project_id": "graduation-project-2024",
+    "storage_bucket": "graduation-project-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579262182424:android:5b7e7d5070d1697bd83f6d",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiFBWWEYi9iKFaepSK1_xmloWvhnNiQ0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
